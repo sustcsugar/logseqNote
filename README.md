@@ -1,2 +1,2 @@
-# logseqNote1
+# logseqNote
 logseqNote的同步库
